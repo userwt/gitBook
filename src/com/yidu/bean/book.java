@@ -8,4 +8,5 @@ package com.yidu.bean;
  */
 public class book {
     private int id;
+    private String name="历史"；
 }
